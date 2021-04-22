@@ -2,7 +2,7 @@
 ### Hi there, I'm Mohian Dipta
 
 - 👨‍💻 I'm currently learning some Javascript Framework
-- - 🔭 I’m currently working on ... ReactJs
+- 🔭 I’m currently working on ... ReactJs
 - 👯 I’m looking to collaborate on ... Flutter
 - 🤔 I’m looking for help with ... NodeJs
 - 💬 Ask me about ... FLutter
