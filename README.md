@@ -18,6 +18,7 @@
 <a href="https://www.linkedin.com/in/mohian-mustafa-dipta-843567160/"><img alt="LinkedIn" src="https://img.shields.io/badge/mohiandipta-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
 <a href="https://www.facebook.com/obonil.mohian/"><img alt="Facebook" src="https://img.shields.io/badge/mohiandipta-facebook-blue?style=flat&logo=facebook"></a>
 <a href="mailto:mohiandipta.cse@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohiandipta.cse@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/mohian_dipta/"><img alt="Instagram" src="https://img.shields.io/badge/mohian_dipta-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 
