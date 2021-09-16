@@ -1,11 +1,11 @@
 
 ### Hi there, I'm Mohian Dipta
 
-- 👨‍💻 I'm currently learning some Javascript Framework
-- 🔭 I’m currently working on ... Nodejs
-- 👯 I’m looking to collaborate on ... Flutter
-- 🤔 I’m looking for help with ... NodeJs
-- 💬 Ask me about ... FLutter
+- 👨‍💻 I'm currently learning Asp.Net
+- 🔭 I’m currently working on ... React.js and asp.net
+- 👯 I’m looking to collaborate on ... Web application development using Node.js
+- 🤔 I’m looking for help with ... Asp.net
+- 💬 Ask me about ... FLutter and Node.js
 - 😄 Pronouns: ...He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
 - 💬 Please feel free to contact me if you need any further information: <a href="mailto:mohiandipta.cse@gmail.com">mohiandipta.cse@gmail.com</a>
