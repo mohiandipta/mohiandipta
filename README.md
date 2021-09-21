@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Mohian Dipta
 
-- 👨‍💻 I'm currently learning Asp.Net
+- 👨‍💻 I'm currently learning Asp.Net Core
 - 🔭 I’m currently working on ... React.js and asp.net
 - 👯 I’m looking to collaborate on ... Web application development using Node.js
 - 🤔 I’m looking for help with ... Asp.net
