@@ -48,6 +48,8 @@
 [![MohianDipta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohiandipta&theme=vue-dark)](https://mohiandipta.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiandipta&theme=vue-dark)](https://mohiandipta.github.io/)
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thatanjan)
 
 </div>
 
