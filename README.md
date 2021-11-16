@@ -1,5 +1,9 @@
 
-### Hi there, I'm Mohian Dipta
+### Hi there 👋 I'm [Mohian Mustafa Dipta](https://www.linkedin.com/mwlite/in/mohian-mustafa-dipta-843567160)
+
+<img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" />
+
+> Software Developer at [Akij Group](https://www.akij.net/)
 
 - 👨‍💻 I'm currently learning Asp.Net Core
 - 🔭 I’m currently working on ... React.js and asp.net
@@ -24,22 +28,25 @@
 
 ### Languages and Tools:
 
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><a/>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a src="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+  
+### Tools 🛠️
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="bootstrap" width="26px" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="bootstrap" width="86px" height="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" />
-<img align="left" alt="bootstrap" width="86px" height="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png" />
-<img align="left" alt="bootstrap" width="36px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" />
-<img align="left" alt="SQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/3161/3161158.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051326.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br />
+<a><img src="https://img.icons8.com/color/48/000000/git.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/firebase.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/heroku.png"/><a/>
+  
 <br />
 <div class="row">
 
