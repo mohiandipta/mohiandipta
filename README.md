@@ -50,13 +50,16 @@
 <br />
 <div class="row">
 
-[![Mohian Dipta GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohiandipta&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/mohiandipta)
+<img  src="https://github-readme-stats.vercel.app/api?username=mohiandipta&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
 
-[![MohianDipta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohiandipta&theme=vue-dark)](https://mohiandipta.github.io)
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohiandipta&theme=tokyonight&hide_border=true" width="49%" >
+###
+  
+[![MohianDipta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohiandipta&theme=tokyonight&hide_border=true)](https://mohiandipta.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiandipta&theme=vue-dark)](https://mohiandipta.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiandipta&theme=tokyonight&hide_border=true)](https://mohiandipta.github.io/)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohiandipta)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohiandipta&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 </div>
 
