@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm [Mohian Mustafa Dipta](https://www.linkedin.com/mwlite/in/mohian-mustafa-dipta-843567160)
 
-<img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" />
+<!-- <img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" /> -->
 
 > Software Engineer at [Akij Group](https://www.akij.net/)
 
