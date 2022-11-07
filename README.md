@@ -3,7 +3,7 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" /> -->
 
-> Software Engineer at [Akij Group](https://www.akij.net/)
+> Software Engineer at [Akij Venture Group](https://www.akij.net/)
 
 - 👨‍💻 I'm currently learning Asp.Net Core
 - 🔭 I’m currently working on ... React.js and asp.net core
