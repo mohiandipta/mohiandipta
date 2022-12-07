@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm [Mohian Mustafa Dipta](https://www.linkedin.com/mwlite/in/mohian-mustafa-dipta-843567160)
+### Hi there 👋 It's [Mohian Mustafa Dipta](https://www.linkedin.com/mwlite/in/mohian-mustafa-dipta-843567160)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" /> -->
 
