@@ -5,10 +5,10 @@
 
 > Software Engineer at [Akij Venture Group](https://www.akij.net/)
 
-- 👨‍💻 I'm currently learning Asp.Net Core
-- 🔭 I’m currently working on ... React.js and asp.net core
+- 👨‍💻 I'm currently learning Next.js
+- 🔭 I’m currently working on ... Next.js and Nest.js
 - 👯 I’m looking to collaborate on ... Web application development using Node.js
-- 🤔 I’m looking for help with ... Asp.net Core
+- 🤔 I’m looking for help with ... advance Next.js
 - 💬 Ask me about ... FLutter, Node.js and Asp.net core
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
