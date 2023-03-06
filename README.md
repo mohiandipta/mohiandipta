@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 
 ### Hi there 👋 I'm [Mohian Mustafa Dipta](https://www.linkedin.com/mwlite/in/mohian-mustafa-dipta-843567160)
 
@@ -59,7 +61,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiandipta&theme=tokyonight&hide_border=true)](https://mohiandipta.github.io/)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohiandipta&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+<!-- [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohiandipta&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)] -->
 
 </div>
 
