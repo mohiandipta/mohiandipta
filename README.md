@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-
+[![wakatime](https://wakatime.com/badge/user/0ee991fb-7142-48fe-88ee-a1d6f57dcbd1.svg)](https://wakatime.com/@0ee991fb-7142-48fe-88ee-a1d6f57dcbd1)
 ### Hi there 👋 I'm [Mohian Mustafa Dipta](https://www.linkedin.com/mwlite/in/mohian-mustafa-dipta-843567160)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" /> -->
