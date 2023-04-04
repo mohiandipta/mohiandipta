@@ -40,6 +40,7 @@
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/></a>
   
 ### Tools 🛠️
 
@@ -48,6 +49,7 @@
 <a><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/><a/>
 <a><img src="https://img.icons8.com/color/48/000000/firebase.png"/><a/>
 <a><img src="https://img.icons8.com/color/48/000000/heroku.png"/><a/>
+<a><img src="https://skillicons.dev/icons?i=cassandra&theme=dark"/><a/>
   
 <br />
 <div class="row">
