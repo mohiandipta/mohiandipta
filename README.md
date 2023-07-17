@@ -44,11 +44,13 @@
   
 ### Tools 🛠️
 
-<a><img src="https://img.icons8.com/color/48/000000/git.png"/><a/>
-<a><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><a/>
-<a><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/><a/>
-<a><img src="https://img.icons8.com/color/48/000000/firebase.png"/><a/>
+<a><img src="https://skillicons.dev/icons?i=git&theme=dark"/><a/>
+<a><img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/><a/>
+<a><img src="https://skillicons.dev/icons?i=vscode&theme=dark"/><a/>
+<a><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark"/><a/>
+<a><img src="https://skillicons.dev/icons?i=firebase&theme=dark"/><a/>
 <a><img src="https://img.icons8.com/color/48/000000/heroku.png"/><a/>
+<a><img src="https://skillicons.dev/icons?i=vercel&theme=dark"/><a/>
 <a><img src="https://skillicons.dev/icons?i=cassandra&theme=dark"/><a/>
   
 <br />
