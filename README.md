@@ -5,7 +5,7 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" /> -->
 
-> Software Engineer at [Akij Venture Group](https://www.akij.net/)
+> Software Engineer at [Akij Venture Group](https://www.akijventure.com/)
 
 - 👨‍💻 I'm currently learning Nest.js
 - 🔭 I’m currently working on ... Next.js and Nest.js
