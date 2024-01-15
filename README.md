@@ -59,8 +59,7 @@
 <br />
 <div class="row">
 
-
-<img  src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohiandipta&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" width="49%" align="right">
+<img  src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohiandipta&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" width="49%">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohiandipta&count_private=true&theme=radical&hide_border=true" width="49%" >
 <br />
   
