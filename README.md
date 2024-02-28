@@ -44,6 +44,8 @@
   
 ### Tools 🛠️
 
+<a><img src="https://skillicons.dev/icons?i=docker&theme=dark"/><a/>
+<a><img src="https://skillicons.dev/icons?i=nginx&theme=dark"/><a/>
 <a><img src="https://skillicons.dev/icons?i=nestjs&theme=dark"/><a/>
 <a><img src="https://skillicons.dev/icons?i=azure&theme=dark"/><a/>
 <a><img src="https://skillicons.dev/icons?i=jenkins&theme=dark"/><a/>
