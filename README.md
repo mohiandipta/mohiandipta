@@ -15,7 +15,7 @@
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
 - 💬 Please feel free to contact me if you need any further information: <a href="mailto:mohiandipta.cse@gmail.com">mohiandipta.cse@gmail.com</a>
-- 📌 Visit my portfolio website: [https://mohian.vercel.app][website]
+- 📌 Visit my portfolio website: [[https://mohian.vercel.app]](https://mohian.vercel.app)[website]
 
 
 ### Connect with me:
@@ -65,9 +65,9 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohiandipta&count_private=true&theme=radical&hide_border=true" width="49%" >
 <br />
   
-[![MohianDipta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohiandipta\&theme=radical&layout=compact)](https://mohiandipta.github.io)
+[![MohianDipta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohiandipta\&theme=radical&layout=compact)](https://mohian.vercel.app)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiandipta&theme=tokyonight&hide_border=true)](https://mohiandipta.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiandipta&theme=tokyonight&hide_border=true)](https://mohian.vercel.app)
 
 
 </div>
@@ -89,4 +89,4 @@
 [telegram]: https://t.me/mohiandipta
 [instagram]: https://www.instagram.com/mohian_dipta/
 [facebook]: https://www.facebook.com/Obonil.Mohian/
-[apps_keytester]: https://mohiandipta.github.io/apps/keytester
+[apps_keytester]: https://mohian.vercel.app/apps/keytester
