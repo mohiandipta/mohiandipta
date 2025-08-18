@@ -15,7 +15,7 @@
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
 - 💬 Please feel free to contact me if you need any further information: <a href="mailto:mohiandipta.cse@gmail.com">mohiandipta.cse@gmail.com</a>
-- 📌 Visit my portfolio website: [[https://mohian.vercel.app]](https://mohian.vercel.app)[website]
+- 📌 Visit my portfolio website: [https://mohian.vercel.app](https://mohian.vercel.app)
 
 
 ### Connect with me:
