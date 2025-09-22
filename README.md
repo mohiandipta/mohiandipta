@@ -7,9 +7,9 @@
 
 > Software Engineer
 
-- 👨‍💻 I'm currently learning Nest.js
+- 👨‍💻 I'm currently learning python
 - 🔭 I’m currently working on ... Next.js and Nest.js
-- 👯 I’m looking to collaborate on ... Web application development using Node.js
+- 👯 I’m looking to collaborate on ... Web application development using Node.js and python
 - 🤔 I’m looking for help with ... advance Nest.js
 - 💬 Ask me about ... Next.js, Nest.js and Asp.net core
 - 😄 Pronouns: ... He/Him
