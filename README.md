@@ -7,10 +7,10 @@
 
 > Software Engineer
 
-- 👨‍💻 I'm currently learning python
-- 🔭 I’m currently working on ... Next.js and Nest.js
-- 👯 I’m looking to collaborate on ... Web application development using Node.js and python
-- 🤔 I’m looking for help with ... advance Nest.js
+- 👨‍💻 I'm currently learning LLM
+- 🔭 I’m currently working on ... Next.js, Nest.js and Python
+- 👯 I’m looking to collaborate on ... Application development using Node.js and python
+- 🤔 I’m looking for help with ... advance ML and LLM
 - 💬 Ask me about ... Next.js, Nest.js and Asp.net core
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
