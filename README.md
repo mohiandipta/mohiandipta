@@ -8,13 +8,13 @@
 > Software Engineer
 
 - 👨‍💻 I'm currently learning LLM
-- 🔭 I’m currently working on ... Next.js, Nest.js and Python
+- 🔭 I’m currently working on ... Python
 - 👯 I’m looking to collaborate on ... Application development using Node.js and python
 - 🤔 I’m looking for help with ... advance ML and LLM
-- 💬 Ask me about ... Next.js, Nest.js and Asp.net core
+- 💬 Ask me about ... Node.js, Nest.js and Asp.net core
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
-- 💬 Please feel free to contact me if you need any further information: <a href="mailto:mohiandipta.cse@gmail.com">mohiandipta.cse@gmail.com</a>
+- 💬 Please feel free to contact me if you need any further information or any help/collaboration: <a href="mailto:mohiandipta.cse@gmail.com">mohiandipta.cse@gmail.com</a>
 - 📌 Visit my portfolio website: [https://mohian.vercel.app](https://mohian.vercel.app)
 
 
@@ -44,6 +44,7 @@
   
 ### Tools 🛠️
 
+<a><img src="https://skillicons.dev/icons?i=aws&theme=dark"/><a/>
 <a><img src="https://skillicons.dev/icons?i=docker&theme=dark"/><a/>
 <a><img src="https://skillicons.dev/icons?i=nginx&theme=dark"/><a/>
 <a><img src="https://skillicons.dev/icons?i=nestjs&theme=dark"/><a/>
